@@ -132,14 +132,17 @@ skills:
         level: 80%
 
 softskills:
-  - name: Leadership and Team Management - Expert
-    level: 90%
-    tools: [Asana, Trello, Slack]
+    title: Skills &amp; Proficiency
 
-  - name: Effective Communication - Expert
-    level: 90%
-    tools: [Slack, Zoom, Microsoft Teams]
+    toolset:
+      - name: Leadership and Team Management - Expert
+        level: 90%
+        tools: [Asana, Trello, Slack]
 
-  - name: Problem-Solving and Analytical Thinking - Expert
-    level: 90%
-    tools: [JIRA, Confluence, GitHub]
+      - name: Effective Communication - Expert
+        level: 90%
+        tools: [Slack, Zoom, Microsoft Teams]
+
+      - name: Problem-Solving and Analytical Thinking - Expert
+        level: 90%
+        tools: [JIRA, Confluence, GitHub]
