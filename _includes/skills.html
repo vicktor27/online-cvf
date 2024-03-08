@@ -39,23 +39,24 @@
     {{ softskills.title }}
   </h2>
 
+  <div class="skillset">
+    <div class="softskills">
 
-  <div class="softskills">
+      {% for skill in softskills.toolset %}
+      <div class="item">
 
-    {% for skill in softskills.toolset %}
-    <div class="item">
+        <h3 class="level-title">{{ skill.name }}</h3>
 
-      <h3 class="level-title">{{ skill.name }}</h3>
-
-      <!--
+        <!--
       <div class="level-bar">
         <div class="level-bar-inner" data-level="{{ skill.level }}">
         </div>
       </div>-->
 
 
-    </div><!--//item-->
-    {% endfor %}
+      </div><!--//item-->
+      {% endfor %}
+    </div>
 
   </div>
 
