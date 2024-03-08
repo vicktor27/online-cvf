@@ -50,43 +50,30 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Tech Lead Developer 
+        time: 2022 - 2024
+        company: Apex Systems, Guadalajara (remote)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          As a Tech Lead with diverse project experience, I spearheaded the development and instruction of several high-impact initiatives. My work ranged from developing a RESTful application for the Innovation Lab, leveraging .NET Core 8, PostgreSQL, and React Native, to conducting a React Native BootCamp aimed at equipping colleagues with the skills to build efficient mobile applications. I also played a pivotal role in architecting the AWS StudyCert Platform, focusing on scalability and reliability using ReactJS and Redux, and led the development of Expedia's Communication Preferences Flow, enhancing user experience through ReactJS, TypeScript, and GraphQL. Across these projects, I demonstrated comprehensive expertise in full-stack development, from backend architecture to frontend development, project management, and delivering targeted training, all while ensuring seamless integration, performance optimization, and intuitive user interactions.
+      
+      - role: Software entrepreneur, Gomez Palacio, Dgo
+        time: 2017 - 2022
+        company: n/a (Freelancer)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          As a software entrepreneur and Full Stack Developer based in Gomez Palacio, Dgo., I spearheaded the design and development of comprehensive healthcare and medical lab software solutions. Leveraging a robust technical stack including React, Node.js, MySQL, Docker, Git, AWS, Jira, and Figma, I was responsible for crafting both the frontend and backend architectures, ensuring a seamless and intuitive user experience. My contributions extended to enhancing web page interactions through innovative UI designs and architecting a cloud-native infrastructure utilizing AWS Services, demonstrating a holistic approach to developing scalable, efficient, and user-centric software solutions.
+      
+      - role: Software Teacher
+        time: 2017 - 2022
+        company: Universidad Tecnologica de La Laguna de Durango
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+         "As an accomplished Full Stack Developer, I leveraged my expertise to teach advanced programming languages and technologies including HTML5, CSS, PHP OOP, JavaScript frameworks, Flutter, Kotlin, and SQL/NoSQL databases, as well as React, Node.js, and AWS. My teaching methodology focused on bridging theory with practical applications, empowering students to tackle real-world challenges. This dual role as developer and educator underscored my commitment to continuous learning and technology dissemination, enhancing my skills in communication and mentorship.
+        
+     - role: Full Stack Developer
+        time: 2013 - 2016
+        company: Human Staff
+        details: |
+           As a full stack developer, i specialized in utilizing a focused technology stack comprising C#, ASP.NET, SQL, and HTML. This role required a deep understanding of both front-end and back-end development processes, enabling me to create efficient, scalable solutions tailored to the enterprise's specific needs. My contributions were instrumental in enhancing web application functionality, ensuring data integrity with SQL databases, and delivering user-friendly interfaces, thereby driving improvements in overall project execution and user experience
+
 
 certifications:
       title: Certifications
