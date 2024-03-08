@@ -35,28 +35,17 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - degree: PhD in Administration and Senior Management (degree in progress) 
+        university: Universidad Autonoma de Coahuila
+        time: 2018 - 2022
+      
+      - degree: Master's Degree in Administration and Senior Management
+        university: Universidad Autonoma de Coahuila
+        time: 2010 - 2012
+
+      - degree: Software Engineer
+        university: Instituto Tecnologico de la Laguna
+        time: 2003 - 2007
 
 experiences:
     title: Experiences
