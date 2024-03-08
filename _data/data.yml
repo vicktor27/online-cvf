@@ -131,7 +131,7 @@ skills:
       - name: Node.js - Mid
         level: 80%
 
-softSkills:
+softskills:
   - name: Leadership and Team Management - Expert
     level: 90%
     tools: [Asana, Trello, Slack]
