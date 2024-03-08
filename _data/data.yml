@@ -114,32 +114,32 @@ skills:
 
     toolset:
       - name: React, React Native
-        level: Senior
+        level: 90%
 
       - name: Javascript, Typescript
-        level: Senior
+        level: 90%
 
       - name: OOP PHP
-        level: Senior
+        level: 90%
 
       - name: .Net Core 8
-        level: Mid
+        level: 80%
 
       - name: Angular
-        level: Mid
+        level: 80%
 
       - name: Node.js
-        level: Mid
+        level: 80%
 
 softSkills:
   - name: Leadership and Team Management
-    level: Expert
+    level: 90%
     tools: [Asana, Trello, Slack]
 
   - name: Effective Communication
-    level: Expert
+    level: 90%
     tools: [Slack, Zoom, Microsoft Teams]
 
   - name: Problem-Solving and Analytical Thinking
-    level: Expert
+    level: 90%
     tools: [JIRA, Confluence, GitHub]
