@@ -8,146 +8,258 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Victor M. Solis
-    tagline: Full Stack Tech Lead
+    name: Alan Doe
+    tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: vmsolis27@hotmail.com
-    phone: 871 7959675
-    timezone: America/Mexico City Timezone.  
-    linkedin: vickthor27
-    github: vicktor27
-
+    email: hello@webjeda.com
+    phone: 012 345 6789
+    timezone: America/Cancun Timezone
+    citizenship:
+    website: blog.webjeda.com #do not add http://
+    linkedin: alandoe
+    xing: alandoe
+    github: sharu725
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: '@webjeda'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
       info:
         - idiom: English
-          level: Professional
-
-
-        - idiom: Spanish
           level: Native
 
+        - idiom: French
+          level: Professional
+
+        - idiom: Spanish
+          level: Professional
+
+    interests:
+      title: Interests
+      info:
+        - item: Climbing
+          link:
+
+        - item: Snowboarding
+          link:
+
+        - item: Cooking
+          link:
 
 career-profile:
-    title: Tech Lead
+    title: Career Profile
     summary: |
-     Versatile Full Stack Developer with comprehensive expertise in the development cycle across web and desktop environments, proficient in a broad spectrum of technologies including HTML5, CSS, Bootstrap, PHP OOP (CodeIgniter, Laravel), JavaScript (jQuery, React, React Native), TypeScript(Angular, React), Flutter, Kotlin, and advanced database management (SQL and NoSQL: MSSQL, MySQL, MariaDB, Firebase, MongoDB), complemented by a strong foundation in project management and customer engagement.
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
 education:
     title: Education
     info:
-      - degree: PhD in Administration and Senior Management (degree in progress) 
-        university: Universidad Autonoma de Coahuila
-        time: 2018 - 2022
-        
-      - degree: Master's Degree in Administration and Senior Management
-        university: Universidad Autonoma de Coahuila
-        time: 2010 - 2012
-
-      - degree: Software Engineer
-        university: Instituto Tecnologico de la Laguna
-        time: 2003 - 2007
-        
+      - degree: MSc in Computer Science
+        university: University of London
+        time: 2011 - 2012
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - degree: BSc in Applied Mathematics
+        university: Bristol University
+        time: 2007 - 2011
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
 
 experiences:
     title: Experiences
     info:
-      - role: Tech Lead Developer 
-        time: 2022 - 2024
-        company: Apex Systems, Guadalajara (remote)
+      - role: Lead Developer
+        time: 2015 - Present
+        company: Startup Hubs, San Francisco
         details: |
-          As a Tech Lead with diverse project experience, I spearheaded the development and instruction of several high-impact initiatives. My work ranged from developing a RESTful application for the Innovation Lab, leveraging .NET Core 8, PostgreSQL, and React Native, to conducting a React Native BootCamp aimed at equipping colleagues with the skills to build efficient mobile applications. I also played a pivotal role in architecting the AWS StudyCert Platform, focusing on scalability and reliability using ReactJS and Redux, and led the development of Expedia's Communication Preferences Flow, enhancing user experience through ReactJS, TypeScript, and GraphQL. Across these projects, I demonstrated comprehensive expertise in full-stack development, from backend architecture to frontend development, project management, and delivering targeted training, all while ensuring seamless integration, performance optimization, and intuitive user interactions.
-      - role: Software entrepreneur, Gomez Palacio, Dgo
-        time: 2017 - 2022
-        company: n/a (Freelancer)
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+          error sit voluptatem accusantium doloremque laudantium, totam rem
+          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+          architecto beatae vitae dicta sunt explicabo.
+            - Bullet point
+            - Bullet point
+      - role: Senior Software Engineer
+        time: 2014 - 2015
+        company: Google, London
         details: |
-          As a software entrepreneur and Full Stack Developer based in Gomez Palacio, Dgo., I spearheaded the design and development of comprehensive healthcare and medical lab software solutions. Leveraging a robust technical stack including React, Node.js, MySQL, Docker, Git, AWS, Jira, and Figma, I was responsible for crafting both the frontend and backend architectures, ensuring a seamless and intuitive user experience. My contributions extended to enhancing web page interactions through innovative UI designs and architecting a cloud-native infrastructure utilizing AWS Services, demonstrating a holistic approach to developing scalable, efficient, and user-centric software solutions.
-      - role: Software Teacher
-        time: 2017 - 2022
-        company: Universidad Tecnologica de La Laguna de Durango
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - role: UI Developer
+        time: 2012 - 2014
+        company: Amazon, London
         details: |
-         "As an accomplished Full Stack Developer, I leveraged my expertise to teach advanced programming languages and technologies including HTML5, CSS, PHP OOP, JavaScript frameworks, Flutter, Kotlin, and SQL/NoSQL databases, as well as React, Node.js, and AWS. My teaching methodology focused on bridging theory with practical applications, empowering students to tackle real-world challenges. This dual role as developer and educator underscored my commitment to continuous learning and technology dissemination, enhancing my skills in communication and mentorship.
-        
-     - role: Full Stack Developer
-        time: 2013 - 2016
-        company: Human Staff
-        details: |
-           As a full stack developer, i specialized in utilizing a focused technology stack comprising C#, ASP.NET, SQL, and HTML. This role required a deep understanding of both front-end and back-end development processes, enabling me to create efficient, scalable solutions tailored to the enterprise's specific needs. My contributions were instrumental in enhancing web application functionality, ensuring data integrity with SQL databases, and delivering user-friendly interfaces, thereby driving improvements in overall project execution and user experience
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Bullet point
+            - Bullet point
 
 certifications:
       title: Certifications
       list:
-        - name: AWS Cloud Practitioner Certification
-          start: 2023
-          end: 2023
-          organization: AWS
-          credentialurl: https://cp.certmetrics.com/amazon/en/public/verify/credential/4GX75WRK0MR117CC
-          
-        - name: W3Schools ReactJS
-          start: 2022
-          end: 2022
-          organization: W3Schools
-          credentialurl: https://verify.w3schools.com/1N3U313OZW
+        - name: CV Builder
+          start: 2020
+          end: 2021
+          organization: Microsoft
+          credentialid: 111-222
+          credentialurl: www.google.com
+          credentialname: Google
+          details: |
+            Details about cert. Lorem ipsum dolor sit amet, consectetur
+            adipiscing elit.
+            Nullam eget orci purus. Nullam ultrices neque nibh.
+            Aenean fermentum, felis vulputate suscipit accumsan,
+            sem enim bibendum augue, sed convallis arcu lacus at dui.
+            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+            Praesent venenatis erat non augue suscipit consectetur.
 
-        - name: C# foundational Certification
-          start: 2022
-          end: 2022
-          organization: FreeBootCamp
-          credentialurl: https://www.freecodecamp.org/certification/Vickthor27/foundational-c-sharp-with-microsoft
-
-          
+            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
+            fringilla vel. Ut euismod, sem sed vulputate venenatis,
+            justo diam viverra velit, sed rhoncus leo leo eu justo.
+            Suspendisse placerat risus ante, sed porta nisi blandit at.
+        - name: Git learning
+          start: 2019
+          end:
+          organization: Microsoft
+          credentialid: 111-222
+          credentialurl: www.github.com
+          credentialname: Github
+          details: |
+            Older certification. Lorem ipsum dolor sit amet, consectetur
+            adipiscing elit.
+            Nullam eget orci purus. Nullam ultrices neque nibh.
+            Aenean fermentum, felis vulputate suscipit accumsan,
+            sem enim bibendum augue, sed convallis arcu lacus at dui.
+            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+            Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
-    title: Personal Public Projects
-      
+    title: Projects
+    intro: >
+      You can list your side projects in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: AWS Practice Test
-        link: "https://vickthor16.github.io/testpractice/"
-        tagline: "In a notable project aimed at preparing students for AWS certification, I developed an application utilizing Redux to manage state efficiently across a user-friendly interface. This application was designed to offer comprehensive preparation materials, interactive quizzes, and progress tracking features to enhance the learning experience for aspiring AWS certified professionals. "
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: UTLD Transportes
+      - title: DevStudio
         link: "#"
-        tagline: "In an enhancement to the geolocation app developed for the Universidad Tecnológica de la Laguna Durango, I incorporated a feature specifically designed to track the buses transporting students to and from the university."
+        tagline: "A responsive website template designed to help web developers/designers market their services."
 
-     
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+oss:
+    title: OSS Contributions
+    intro: >
+      You can list your open source software contributions in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    contributions:
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+publications:
+    title: Publications
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+    papers:
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: React, React Native
-        level: Senior
+      - name: Python & Django
+        level: 98%
 
-      - name: Javascript, Typescript
-        level: Senior
-
-      - name: OOP PHP
-        level: Senior
-
-      - name: .Net Core 8
-        level: Mid
+      - name: Javascript & jQuery
+        level: 98%
 
       - name: Angular
-        level: Mid
+        level: 98%
 
-      - name: Node.js
-        level: Mid
+      - name: HTML5 & CSS
+        level: 95%
 
-softSkills:
-  - name: Leadership and Team Management
-    level: Expert
-    tools: [Asana, Trello, Slack]
+      - name: Ruby on Rails
+        level: 85%
 
-  - name: Effective Communication
-    level: Expert
-    tools: [Slack, Zoom, Microsoft Teams]
+      - name: Sketch & Photoshop
+        level: 60%
 
-  - name: Problem-Solving and Analytical Thinking
-    level: Expert
-    tools: [JIRA, Confluence, GitHub]
-
-
-
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
