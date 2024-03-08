@@ -17,41 +17,21 @@ sidebar:
     phone: 871 7959675
     timezone: America/Mexico City Timezone.
     linkedin: vickthor27
-
+    github: vicktor27
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Spanish
           level: Native
 
-        - idiom: French
+        - idiom: English
           level: Professional
-
-        - idiom: Spanish
-          level: Professional
-
-    interests:
-      title: Interests
-      info:
-        - item: Climbing
-          link:
-
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
-          link:
 
 career-profile:
-    title: Career Profile
+    title: Tech Lead
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Versatile Full Stack Developer with comprehensive expertise in the development cycle across web and desktop environments, proficient in a broad spectrum of technologies including HTML5, CSS, Bootstrap, PHP OOP (CodeIgniter, Laravel), JavaScript (jQuery, React, React Native), TypeScript(Angular, React), Flutter, Kotlin, and advanced database management (SQL and NoSQL: MSSQL, MySQL, MariaDB, Firebase, MongoDB), complemented by a strong foundation in project management and customer engagement.
 education:
     title: Education
     info:
