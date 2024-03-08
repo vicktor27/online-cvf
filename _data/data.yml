@@ -113,33 +113,33 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: React, React Native
+      - name: React, React Native - Sr
         level: 90%
 
-      - name: Javascript, Typescript
+      - name: Javascript, Typescript - Sr
         level: 90%
 
-      - name: OOP PHP
+      - name: OOP PHP - Sr
         level: 90%
 
-      - name: .Net Core 8
+      - name: .Net Core 8 - Mid
         level: 80%
 
-      - name: Angular
+      - name: Angular - Mid
         level: 80%
 
-      - name: Node.js
+      - name: Node.js - Mid
         level: 80%
 
 softSkills:
-  - name: Leadership and Team Management
+  - name: Leadership and Team Management - Expert
     level: 90%
     tools: [Asana, Trello, Slack]
 
-  - name: Effective Communication
+  - name: Effective Communication - Expert
     level: 90%
     tools: [Slack, Zoom, Microsoft Teams]
 
-  - name: Problem-Solving and Analytical Thinking
+  - name: Problem-Solving and Analytical Thinking - Expert
     level: 90%
     tools: [JIRA, Confluence, GitHub]
