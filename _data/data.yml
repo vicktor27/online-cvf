@@ -76,9 +76,15 @@ experiences:
           As a full stack developer, i specialized in utilizing a focused technology stack comprising C#, ASP.NET, SQL, and HTML. This role required a deep understanding of both front-end and back-end development processes, enabling me to create efficient, scalable solutions tailored to the enterprise's specific needs. My contributions were instrumental in enhancing web application functionality, ensuring data integrity with SQL databases, and delivering user-friendly interfaces, thereby driving improvements in overall project execution and user experience
 
 
-certifications:
+latest certifications:
       title: Certifications
       list:
+        - name: Data Science Certification
+          start: 2024
+          end: 2024
+          organization: https://foprodesemiconductores.aguascalientes.tecnm.mx/aula/course/view.php?id=7
+          credentialname: https://foprodesemiconductores.aguascalientes.tecnm.mx/aula/course/view.php?id=7
+
         - name: AWS Cloud Practitioner Certification
           start: 2023
           end: 2023
