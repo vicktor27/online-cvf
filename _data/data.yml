@@ -126,22 +126,31 @@ skills:
 
     toolset:
       - name: React, React Native - Sr
-        level: 90%
+        level: +5 years
 
       - name: Javascript, Typescript - Sr
-        level: 90%
+        level: +5 years
 
       - name: OOP PHP - Sr
-        level: 90%
+        level: +10 years
+
+      - name: Genexus - Sr
+        level: +5 years
 
       - name: .Net Core 8 - Mid
-        level: 80%
+        level: 3 years
 
       - name: Angular - Mid
-        level: 80%
+        level: 3 years
 
       - name: Node.js - Mid
-        level: 80%
+        level: 3 years
+
+      - name: Java - Jr
+        level: 3 years
+
+      - name: AWS
+        level: EC2 5 years <br>Databricks 1 year<br>Beanstalk 1 year
 
 softskills:
     title: Soft Skills 
