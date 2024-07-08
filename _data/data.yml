@@ -63,26 +63,26 @@ certifications:
 
 experiences:
     title: Experiences
-    info:  
-    
+    info:
+
       - role: Tech Lead Developer 
         time: 2022 - Present
         company: Apex Systems, Guadalajara (remote)
         details: |
           As a Tech Lead with experience in a variety of projects, I led the development and teaching of several impactful initiatives. My work varied from creating a RESTful application, utilizing .NET Core 8, PostgreSQL, and React Native, to running a boot camp for React Native aimed at providing colleagues with the necessary skills to develop efficient mobile applications. I also had a key role in designing a scalable and reliable cloud-based education platform, focusing on using ReactJS and Redux, and directed the creation of a system to improve user experience with ReactJS, TypeScript, and GraphQL. Throughout these initiatives, I showed extensive knowledge in full-stack development, covering everything from backend architecture to frontend development, project management, and specific training delivery, all while ensuring smooth integration, performance enhancement, and user-friendly interactions, without mentioning specific project or company names.
 
-     - role: Software Teacher
-        time: 2024- Present
-        company: Tripleten
-        details: |
-          As a Web Development Tutor at TripleTen, I perfectly aligned with company mission of providing high-quality tech education. Adept at simplifying complex concepts in HTML5, CSS, JavaScript, React, Next.js, TypeScript, .NET Core, and PostgreSQL. Skilled in creating tailored lesson plans, delivering online tutorials, and guiding students in project implementation. Proficient in using tools like Notion, Cypress, Clerk, and Redux for state management and authentication.
-
       - role: Software Teacher
         time: 2017 - Present
         company: Universidad Tecnologica de La Laguna de Durango
         details: |
           As an accomplished Full Stack Developer, I leveraged my expertise to teach advanced programming languages and technologies including HTML5, CSS, PHP OOP, JavaScript frameworks, Flutter, Kotlin, and SQL/NoSQL databases, as well as React, Node.js, and AWS. My teaching methodology focused on bridging theory with practical applications, empowering students to tackle real-world challenges. This dual role as developer and educator underscored my commitment to continuous learning and technology dissemination, enhancing my skills in communication and mentorship.
-           
+      
+      - role: Software Teacher
+        time: 2017 - Present
+        company: Tripleten
+        details: |
+          As a Web Development Tutor at TripleTen, I perfectly aligned with company mission of providing high-quality tech education. Adept at simplifying complex concepts in HTML5, CSS, JavaScript, React, Next.js, TypeScript, .NET Core, and PostgreSQL. Skilled in creating tailored lesson plans, delivering online tutorials, and guiding students in project implementation. Proficient in using tools like Notion, Cypress, Clerk, and Redux for state management and authentication.
+
       - role: Software entrepreneur, Gomez Palacio, Dgo.
         time: 2017 - 2022
         company: n/a (Freelancer)
