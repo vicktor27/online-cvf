@@ -6,6 +6,7 @@ sidebar:
     position: right # position of the sidebar : left or right
     about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
+    certification: False
 
     # Profile information
     name: Victor M. Solis
@@ -33,6 +34,7 @@ career-profile:
     title: Tech Lead
     summary: |
       Versatile Full Stack Developer with comprehensive expertise in the development cycle across web and desktop environments, proficient in a broad spectrum of technologies including HTML5, CSS, Bootstrap, PHP OOP (CodeIgniter, Laravel), JavaScript (jQuery, React, React Native), TypeScript(Angular, React), Flutter, Kotlin, and advanced database management (SQL and NoSQL: MSSQL, MySQL, MariaDB, Firebase, MongoDB), complemented by a strong foundation in project management and customer engagement.
+
 education:
     title: Education
     info:
@@ -45,32 +47,43 @@ education:
         time: 2010 - 2012
 
       - degree: Software Engineer
-        university: Instituto Tecnologico de la Laguna
+        university: Instituto Tecnológico de la Laguna
         time: 2003 - 2007
+
+certifications:
+    title: Certifications
+    info:
+      - name: AWS - CLF C01 Cloud Practitioner
+        link: https://cp.certmetrics.com/amazon/en/public/verify/credential/4GX75WRK0MR117CC
+      - name: TecNM _ Data Science Certification (CVphkT8io)
+        link: https://constancias.tecnm.mx/
+      - name: w3schools - React.js
+        link: https://verify.w3schools.com/1N3U313OZW
+
 
 experiences:
     title: Experiences
     info:
 
       - role: Software Teacher
-        time: 2017 - Actual
+        time: 2017 - Present
         company: Tripleten
         details: |
           As a Web Development Tutor at TripleTen, I perfectly aligned with company mission of providing high-quality tech education. Adept at simplifying complex concepts in HTML5, CSS, JavaScript, React, Next.js, TypeScript, .NET Core, and PostgreSQL. Skilled in creating tailored lesson plans, delivering online tutorials, and guiding students in project implementation. Proficient in using tools like Notion, Cypress, Clerk, and Redux for state management and authentication.
 
       - role: Software Teacher
-        time: 2017 - Actual
+        time: 2017 - Present
         company: Universidad Tecnologica de La Laguna de Durango
         details: |
           As an accomplished Full Stack Developer, I leveraged my expertise to teach advanced programming languages and technologies including HTML5, CSS, PHP OOP, JavaScript frameworks, Flutter, Kotlin, and SQL/NoSQL databases, as well as React, Node.js, and AWS. My teaching methodology focused on bridging theory with practical applications, empowering students to tackle real-world challenges. This dual role as developer and educator underscored my commitment to continuous learning and technology dissemination, enhancing my skills in communication and mentorship.
         
       - role: Tech Lead Developer 
-        time: 2022 - Actual
+        time: 2022 - Present
         company: Apex Systems, Guadalajara (remote)
         details: |
           As a Tech Lead with experience in a variety of projects, I led the development and teaching of several impactful initiatives. My work varied from creating a RESTful application, utilizing .NET Core 8, PostgreSQL, and React Native, to running a boot camp for React Native aimed at providing colleagues with the necessary skills to develop efficient mobile applications. I also had a key role in designing a scalable and reliable cloud-based education platform, focusing on using ReactJS and Redux, and directed the creation of a system to improve user experience with ReactJS, TypeScript, and GraphQL. Throughout these initiatives, I showed extensive knowledge in full-stack development, covering everything from backend architecture to frontend development, project management, and specific training delivery, all while ensuring smooth integration, performance enhancement, and user-friendly interactions, without mentioning specific project or company names.
 
-      - role: Software entrepreneur, Gomez Palacio, Dgo
+      - role: Software entrepreneur, Gomez Palacio, Dgo.
         time: 2017 - 2022
         company: n/a (Freelancer)
         details: |
@@ -124,7 +137,7 @@ projects:
         tagline: "In a notable project aimed at preparing students for AWS certification, I developed an application utilizing Redux to manage state efficiently across a user-friendly interface. This application was designed to offer comprehensive preparation materials, interactive quizzes, and progress tracking features to enhance the learning experience for aspiring AWS certified professionals. "
 
       - title: UTLD Transportes
-        link: "#"
+        link: "http://189.199.226.134:8080/"
         tagline: "In an enhancement to the geolocation app developed for the Universidad Tecnológica de la Laguna Durango, I incorporated a feature specifically designed to track the buses transporting students to and from the university."
 
 
@@ -144,7 +157,7 @@ skills:
       - name: Sr. Genexus 
         level: +5 years
 
-      - name: Sr .Net Core 8 
+      - name: Sr .NET Core 8 
         level: 3 years
 
       - name: Mid. Angular 
@@ -156,7 +169,7 @@ skills:
       - name: Jr. Java 
         level: 2 years
 
-      - name: AWS
+      - name: AWS (CLF-C01 Certification)
         level: EC2 5 years <br>Databricks 1 year<br>Beanstalk 1 year
 
 softskills:
@@ -174,3 +187,9 @@ softskills:
       - name: Problem-Solving and Analytical Thinking
         level: 90%
         tools: [JIRA, Confluence, GitHub]
+
+      - name: Tools for Collaboration and Teamwork
+        level: 90%
+        tools: [JIRA, Trello, Slack, Figma, MS Teams, GitHub, Google for Education]
+
+

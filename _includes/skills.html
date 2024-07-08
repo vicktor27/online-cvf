@@ -19,15 +19,16 @@
         {% for skill in skills.toolset %}
         <div class="item">
 
-          <h5 class="level-title" style="width: 100%; font-weight: 100; font-family: Roboto, sans-serif;">{{ skill.name
-            }}</h5>
-          <h3>{{skill.level}}</h3>
+          <h3 class="level-title" style="width: 100%; font-weight: 700; font-family: Roboto, sans-serif;">{{ skill.name
+            }}</h3>
+          <h3 class="level-title" style=" width: 100%; font-weight: 100; font-family: Roboto, sans-serif;">
+            {{skill.level}}</h3>
 
           <!--
-          <div class="level-bar">
+          <div class=" level-bar">
             <div class="level-bar-inner" data-level="{{ skill.level }}">
             </div>
-          </div>-->
+        </div>-->
 
 
         </div><!--//item-->
@@ -50,8 +51,12 @@
         {% for skill in softskills.toolset %}
         <div class="item">
 
-          <h3 class="level-title" style="width: 100%; font-weight: 100; font-family: Roboto, sans-serif;">{{ skill.name
+          <h3 class="level-title" style="width: 100%; font-weight: 700; font-family: Roboto, sans-serif;">{{ skill.name
             }}</h3>
+
+          <h3 class="level-title" style="width: 100%; font-weight: 100; font-family: Roboto, sans-serif;">
+            {{ skill.tools | join: ", " }}
+          </h3>
 
 
           <!--
