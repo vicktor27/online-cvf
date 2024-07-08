@@ -51,8 +51,21 @@ education:
 experiences:
     title: Experiences
     info:
+
+      - role: Software Teacher
+        time: 2017 - Actual
+        company: Tripleten
+        details: |
+          As a Web Development Tutor at TripleTen, I perfectly aligned with company mission of providing high-quality tech education. Adept at simplifying complex concepts in HTML5, CSS, JavaScript, React, Next.js, TypeScript, .NET Core, and PostgreSQL. Skilled in creating tailored lesson plans, delivering online tutorials, and guiding students in project implementation. Proficient in using tools like Notion, Cypress, Clerk, and Redux for state management and authentication.
+
+      - role: Software Teacher
+        time: 2017 - Actual
+        company: Universidad Tecnologica de La Laguna de Durango
+        details: |
+          As an accomplished Full Stack Developer, I leveraged my expertise to teach advanced programming languages and technologies including HTML5, CSS, PHP OOP, JavaScript frameworks, Flutter, Kotlin, and SQL/NoSQL databases, as well as React, Node.js, and AWS. My teaching methodology focused on bridging theory with practical applications, empowering students to tackle real-world challenges. This dual role as developer and educator underscored my commitment to continuous learning and technology dissemination, enhancing my skills in communication and mentorship.
+        
       - role: Tech Lead Developer 
-        time: 2022 - 2024
+        time: 2022 - Actual
         company: Apex Systems, Guadalajara (remote)
         details: |
           As a Tech Lead with experience in a variety of projects, I led the development and teaching of several impactful initiatives. My work varied from creating a RESTful application, utilizing .NET Core 8, PostgreSQL, and React Native, to running a boot camp for React Native aimed at providing colleagues with the necessary skills to develop efficient mobile applications. I also had a key role in designing a scalable and reliable cloud-based education platform, focusing on using ReactJS and Redux, and directed the creation of a system to improve user experience with ReactJS, TypeScript, and GraphQL. Throughout these initiatives, I showed extensive knowledge in full-stack development, covering everything from backend architecture to frontend development, project management, and specific training delivery, all while ensuring smooth integration, performance enhancement, and user-friendly interactions, without mentioning specific project or company names.
@@ -63,12 +76,6 @@ experiences:
         details: |
           As a software entrepreneur and Full Stack Developer based in Gomez Palacio, Dgo., I spearheaded the design and development of comprehensive healthcare and medical lab software solutions. Leveraging a robust technical stack including React, Node.js, MySQL, Docker, Git, AWS, Jira, and Figma, I was responsible for crafting both the frontend and backend architectures, ensuring a seamless and intuitive user experience. My contributions extended to enhancing web page interactions through innovative UI designs and architecting a cloud-native infrastructure utilizing AWS Services, demonstrating a holistic approach to developing scalable, efficient, and user-centric software solutions.
       
-      - role: Software Teacher
-        time: 2017 - 2022
-        company: Universidad Tecnologica de La Laguna de Durango
-        details: |
-          As an accomplished Full Stack Developer, I leveraged my expertise to teach advanced programming languages and technologies including HTML5, CSS, PHP OOP, JavaScript frameworks, Flutter, Kotlin, and SQL/NoSQL databases, as well as React, Node.js, and AWS. My teaching methodology focused on bridging theory with practical applications, empowering students to tackle real-world challenges. This dual role as developer and educator underscored my commitment to continuous learning and technology dissemination, enhancing my skills in communication and mentorship.
-        
       - role: Full Stack Developer
         time: 2013 - 2016
         company: Human Staff
@@ -125,29 +132,29 @@ skills:
     title: Skills 
 
     toolset:
-      - name: React, React Native - Sr
+      - name: Sr. React, React Native 
         level: +5 years
 
-      - name: Javascript, Typescript - Sr
+      - name: Sr. Javascript, Typescript 
         level: +5 years
 
-      - name: OOP PHP - Sr
+      - name: Sr. OOP PHP 
         level: +10 years
 
-      - name: Genexus - Sr
+      - name: Sr. Genexus 
         level: +5 years
 
-      - name: .Net Core 8 - Mid
+      - name: Sr .Net Core 8 
         level: 3 years
 
-      - name: Angular - Mid
+      - name: Mid. Angular 
         level: 3 years
 
-      - name: Node.js - Mid
+      - name: Mid. Node.js 
         level: 3 years
 
-      - name: Java - Jr
-        level: 3 years
+      - name: Jr. Java 
+        level: 2 years
 
       - name: AWS
         level: EC2 5 years <br>Databricks 1 year<br>Beanstalk 1 year
