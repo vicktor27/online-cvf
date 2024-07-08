@@ -169,6 +169,9 @@ skills:
       - name: Jr. Java 
         level: 2 years
 
+      - name: Jr. Flutter 
+        level: 2 years
+
       - name: AWS (CLF-C01 Certification)
         level: EC2 5 years <br>Databricks 1 year<br>Beanstalk 1 year
 
