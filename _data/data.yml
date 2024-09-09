@@ -17,7 +17,7 @@ sidebar:
     email: vmsolis27@hotmail.com
     phone: 871 7959675
     timezone: America/Mexico City Timezone.
-    linkedin: vickthor27
+    linkedin: www.linkedin.com/in/vickthor27
     github: https://vicktor27.github.io/online-cvf
     resume: https://vicktor27.github.io/online-cvf
 
@@ -64,6 +64,12 @@ certifications:
 experiences:
     title: Experiences
     info:
+
+      - role: Web Tutor 
+        time: 2024 - Present
+        company: Tripleten
+        details: |
+         Web Tutor at TripleTen, guiding students through HTML, JavaScript, and React, providing hands-on coding instruction, mentoring in project development, and ensuring a strong understanding of web development principles and industry best practices.
 
       - role: Tech Lead Developer 
         time: 2022 - 2024
