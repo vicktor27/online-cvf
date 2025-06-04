@@ -53,6 +53,47 @@ certifications:
     - name: International Teacher Training Series 2017
       link: https://drive.google.com/file/d/1rFq577kcl0SudvxfvUGMShPnQkn8_UbP/view?usp=drive_link
 
+skills:
+  title: Skills
+  toolset:
+    - name: Sr. React, React Native
+      level: +5 years
+    - name: Sr. Javascript, Typescript
+      level: +5 years
+    - name: Sr. OOP PHP
+      level: +10 years
+    - name: Sr. Genexus
+      level: +5 years
+    - name: Sr .NET Core 8
+      level: 3 years
+    - name: Mid. Angular
+      level: 3 years
+    - name: Mid. Node.js
+      level: 3 years
+    - name: Jr. Java
+      level: 2 years
+    - name: Jr. Flutter
+      level: 2 years
+    - name: AWS (CLF-C01 Certification)
+      level: EC2 5 years Databricks 1 year Beanstalk 1 year
+
+softskills:
+  title: Soft Skills
+  toolset:
+    - name: Leadership and Team Management
+      level: 90%
+      tools: [Asana, Trello, Slack]
+    - name: Effective Communication
+      level: 90%
+      tools: [Slack, Zoom, Microsoft Teams]
+    - name: Problem-Solving and Analytical Thinking
+      level: 90%
+      tools: [JIRA, Confluence, GitHub]
+    - name: Tools for Collaboration and Teamwork
+      level: 90%
+      tools:
+        [JIRA, Trello, Slack, Figma, MS Teams, GitHub, Google for Education]
+
 experiences:
   title: Experiences
   info:
@@ -111,43 +152,3 @@ experiences:
 #      tagline: |
 #        In an enhancement to the geolocation app developed for the Universidad Tecnológica de la Laguna Durango, I incorporated a feature specifically designed to track the buses transporting students to and from the university.
 
-skills:
-  title: Skills
-  toolset:
-    - name: Sr. React, React Native
-      level: +5 years
-    - name: Sr. Javascript, Typescript
-      level: +5 years
-    - name: Sr. OOP PHP
-      level: +10 years
-    - name: Sr. Genexus
-      level: +5 years
-    - name: Sr .NET Core 8
-      level: 3 years
-    - name: Mid. Angular
-      level: 3 years
-    - name: Mid. Node.js
-      level: 3 years
-    - name: Jr. Java
-      level: 2 years
-    - name: Jr. Flutter
-      level: 2 years
-    - name: AWS (CLF-C01 Certification)
-      level: EC2 5 years Databricks 1 year Beanstalk 1 year
-
-softskills:
-  title: Soft Skills
-  toolset:
-    - name: Leadership and Team Management
-      level: 90%
-      tools: [Asana, Trello, Slack]
-    - name: Effective Communication
-      level: 90%
-      tools: [Slack, Zoom, Microsoft Teams]
-    - name: Problem-Solving and Analytical Thinking
-      level: 90%
-      tools: [JIRA, Confluence, GitHub]
-    - name: Tools for Collaboration and Teamwork
-      level: 90%
-      tools:
-        [JIRA, Trello, Slack, Figma, MS Teams, GitHub, Google for Education]
