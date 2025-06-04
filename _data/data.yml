@@ -1,208 +1,153 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
-
 sidebar:
-    position: right # position of the sidebar : left or right
-    about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
-    certification: False
+  position: right
+  about: false
+  education: true
+  certification: false
 
-    # Profile information
-    name: Victor M. Solis
-    tagline: Tech Lead
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  name: Victor M. Solis
+  tagline: Tech Lead
+  avatar: profile.png
 
-    # Sidebar links
-    email: vmsolis27@hotmail.com
-    phone: 871 7959675
-    timezone: America/Mexico City Timezone.
-    linkedin: www.linkedin.com/in/vickthor27
-    github: https://vicktor27.github.io/online-cvf
-    resume: https://vicktor27.github.io/online-cvf
+  email: vmsolis27@hotmail.com
+  phone: 871 7959675
+  timezone: America/Mexico City Timezone.
+  linkedin: www.linkedin.com/in/vickthor27
+  github: https://vicktor27.github.io/online-cvf
+  resume: https://vicktor27.github.io/online-cvf
 
-    languages:
-      title: Languages
-      info:
-        - idiom: Spanish
-          level: Native
-
-        - idiom: English
-          level: Professional
+  languages:
+    title: Languages
+    info:
+      - idiom: Spanish
+        level: Native
+      - idiom: English
+        level: Professional
 
 career-profile:
-    title: Tech Lead
-    summary: |
-      Versatile Full Stack Developer with comprehensive expertise in the development cycle across web and desktop environments, proficient in a broad spectrum of technologies including HTML5, CSS, Bootstrap, PHP OOP (CodeIgniter, Laravel), JavaScript (jQuery, React, React Native), TypeScript(Angular, React), Flutter, Kotlin, and advanced database management (SQL and NoSQL: MSSQL, MySQL, MariaDB, Firebase, MongoDB), complemented by a strong foundation in project management and customer engagement.
+  title: Tech Lead
+  summary: |
+    Versatile Full Stack Developer with comprehensive expertise in the development cycle across web and desktop environments, proficient in a broad spectrum of technologies including HTML5, CSS, Bootstrap, PHP OOP (CodeIgniter, Laravel), JavaScript (jQuery, React, React Native), TypeScript(Angular, React), Flutter, Kotlin, and advanced database management (SQL and NoSQL: MSSQL, MySQL, MariaDB, Firebase, MongoDB), complemented by a strong foundation in project management and customer engagement.
 
 education:
-    title: Education
-    info:
-      - degree: PhD in Administration and Senior Management (degree in progress) 
-        university: Universidad Autonoma de Coahuila
-        time: 2018 - 2022
-      
-      - degree: Master's Degree in Administration and Senior Management
-        university: Universidad Autonoma de Coahuila
-        time: 2010 - 2012
-
-      - degree: Software Engineer
-        university: Instituto Tecnológico de la Laguna
-        time: 2003 - 2007
+  title: Education
+  info:
+    - degree: PhD in Administration and Senior Management (degree in progress)
+      university: Universidad Autonoma de Coahuila
+      time: 2018 - 2022
+    - degree: Master's Degree in Administration and Senior Management
+      university: Universidad Autonoma de Coahuila
+      time: 2010 - 2012
+    - degree: Software Engineer
+      university: Instituto Tecnológico de la Laguna
+      time: 2003 - 2007
 
 certifications:
-    title: Certifications
-    info:
-      - name: AWS - CLF C01 Cloud Practitioner
-        link: https://cp.certmetrics.com/amazon/en/public/verify/credential/4GX75WRK0MR117CC
-      - name: TecNM _ Data Science Certification (CVphkT8io)
-        link: https://constancias.tecnm.mx/
-      - name: w3schools - React.js
-        link: https://verify.w3schools.com/1N3U313OZW
-      - name: International Teacher Training Series 2017
-        link: https://drive.google.com/file/d/1rFq577kcl0SudvxfvUGMShPnQkn8_UbP/view?usp=drive_link 
-        
-
-
+  title: Certifications
+  info:
+    - name: AWS - CLF C01 Cloud Practitioner
+      link: https://cp.certmetrics.com/amazon/en/public/verify/credential/4GX75WRK0MR117CC
+    - name: TecNM _ Data Science Certification (CVphkT8io)
+      link: https://constancias.tecnm.mx/
+    - name: w3schools - React.js
+      link: https://verify.w3schools.com/1N3U313OZW
+    - name: International Teacher Training Series 2017
+      link: https://drive.google.com/file/d/1rFq577kcl0SudvxfvUGMShPnQkn8_UbP/view?usp=drive_link
 
 experiences:
-    title: Experiences
-    info:
+  title: Experiences
+  info:
+    - role: Tech Lead Developer
+      time: 2022 - 2024
+      company: Apex Systems, Guadalajara (remote)
+      details: |
+        As a Tech Lead with experience in a variety of projects, I led the development and teaching of several impactful initiatives. My work varied from creating a RESTful application, utilizing .NET Core 8, PostgreSQL, and React Native, to running a boot camp for React Native aimed at providing colleagues with the necessary skills to develop efficient mobile applications. I also had a key role in designing a scalable and reliable cloud-based education platform, focusing on using ReactJS and Redux, and directed the creation of a system to improve user experience with ReactJS, TypeScript, and GraphQL. Throughout these initiatives, I showed extensive knowledge in full-stack development, covering everything from backend architecture to frontend development, project management, and specific training delivery, all while ensuring smooth integration, performance enhancement, and user-friendly interactions, without mentioning specific project or company names.
 
-      - role: Web Tutor 
-        time: 2024 - Present
-        company: Tripleten
-        details: |
-          Web Tutor at TripleTen, guiding students through HTML, JavaScript, and React, providing hands-on coding instruction, mentoring in project development, and ensuring a strong understanding of web development principles and industry best practices.
+    - role: Web Tutor
+      time: 2024 - Present
+      company: Tripleten
+      details: |
+        Web Tutor at TripleTen, guiding students through HTML, JavaScript, and React, providing hands-on coding instruction, mentoring in project development, and ensuring a strong understanding of web development principles and industry best practices.
 
-      - role: Tech Lead Developer 
-        time: 2022 - 2024
-        company: Apex Systems, Guadalajara (remote)
-        details: |
-          As a Tech Lead with experience in a variety of projects, I led the development and teaching of several impactful initiatives. My work varied from creating a RESTful application, utilizing .NET Core 8, PostgreSQL, and React Native, to running a boot camp for React Native aimed at providing colleagues with the necessary skills to develop efficient mobile applications. I also had a key role in designing a scalable and reliable cloud-based education platform, focusing on using ReactJS and Redux, and directed the creation of a system to improve user experience with ReactJS, TypeScript, and GraphQL. Throughout these initiatives, I showed extensive knowledge in full-stack development, covering everything from backend architecture to frontend development, project management, and specific training delivery, all while ensuring smooth integration, performance enhancement, and user-friendly interactions, without mentioning specific project or company names.
+    - role: Software Teacher
+      time: 2017 - Present
+      company: Universidad Tecnologica de La Laguna de Durango
+      details: |
+        As an accomplished Full Stack Developer, I leveraged my expertise to teach advanced programming languages and technologies including HTML5, CSS, PHP OOP, JavaScript frameworks, Flutter, Kotlin, and SQL/NoSQL databases, as well as React, Node.js, and AWS. My teaching methodology focused on bridging theory with practical applications, empowering students to tackle real-world challenges. This dual role as developer and educator underscored my commitment to continuous learning and technology dissemination, enhancing my skills in communication and mentorship.
 
-      - role: Software Teacher
-        time: 2017 - Present
-        company: Universidad Tecnologica de La Laguna de Durango
-        details: |
-          As an accomplished Full Stack Developer, I leveraged my expertise to teach advanced programming languages and technologies including HTML5, CSS, PHP OOP, JavaScript frameworks, Flutter, Kotlin, and SQL/NoSQL databases, as well as React, Node.js, and AWS. My teaching methodology focused on bridging theory with practical applications, empowering students to tackle real-world challenges. This dual role as developer and educator underscored my commitment to continuous learning and technology dissemination, enhancing my skills in communication and mentorship.
-      
-      - role: Software Teacher
-        time: 2017 - Present
-        company: Tripleten
-        details: |
-          As a Web Development Tutor at TripleTen, I perfectly aligned with company mission of providing high-quality tech education. Adept at simplifying complex concepts in HTML5, CSS, JavaScript, React, Next.js, TypeScript, .NET Core, and PostgreSQL. Skilled in creating tailored lesson plans, delivering online tutorials, and guiding students in project implementation. Proficient in using tools like Notion, Cypress, Clerk, and Redux for state management and authentication.
+    - role: Software Teacher
+      time: 2017 - Present
+      company: Tripleten
+      details: |
+        As a Web Development Tutor at TripleTen, I perfectly aligned with company mission of providing high-quality tech education. Adept at simplifying complex concepts in HTML5, CSS, JavaScript, React, Next.js, TypeScript, .NET Core, and PostgreSQL. Skilled in creating tailored lesson plans, delivering online tutorials, and guiding students in project implementation. Proficient in using tools like Notion, Cypress, Clerk, and Redux for state management and authentication.
 
-      - role: Software entrepreneur, Gomez Palacio, Dgo.
-        time: 2017 - 2022
-        company: n/a (Freelancer)
-        details: |
-          As a software entrepreneur and Full Stack Developer based in Gomez Palacio, Dgo., I spearheaded the design and development of comprehensive healthcare and medical lab software solutions. Leveraging a robust technical stack including React, Node.js, MySQL, Docker, Git, AWS, Jira, and Figma, I was responsible for crafting both the frontend and backend architectures, ensuring a seamless and intuitive user experience. My contributions extended to enhancing web page interactions through innovative UI designs and architecting a cloud-native infrastructure utilizing AWS Services, demonstrating a holistic approach to developing scalable, efficient, and user-centric software solutions.
-      
-      - role: Full Stack Developer
-        time: 2013 - 2016
-        company: Human Staff
-        details: |
-          As a full stack developer, i specialized in utilizing a focused technology stack comprising C#, ASP.NET, SQL, and HTML. This role required a deep understanding of both front-end and back-end development processes, enabling me to create efficient, scalable solutions tailored to the enterprise's specific needs. My contributions were instrumental in enhancing web application functionality, ensuring data integrity with SQL databases, and delivering user-friendly interfaces, thereby driving improvements in overall project execution and user experience
+    - role: Software entrepreneur, Gomez Palacio, Dgo.
+      time: 2017 - 2022
+      company: n/a (Freelancer)
+      details: |
+        As a software entrepreneur and Full Stack Developer based in Gomez Palacio, Dgo., I spearheaded the design and development of comprehensive healthcare and medical lab software solutions. Leveraging a robust technical stack including React, Node.js, MySQL, Docker, Git, AWS, Jira, and Figma, I was responsible for crafting both the frontend and backend architectures, ensuring a seamless and intuitive user experience. My contributions extended to enhancing web page interactions through innovative UI designs and architecting a cloud-native infrastructure utilizing AWS Services, demonstrating a holistic approach to developing scalable, efficient, and user-centric software solutions.
 
-      - role: Full Stack Developer
-        time: 2010 - 2013
-        company: Integra Corp
-        details: |
-          Over three years, I specialized in developing and optimizing a variety of applications using GeneXus 8 and Genexus X, demonstrating profound expertise in leveraging this innovative low-code platform to deliver scalable, efficient solutions. I successfully led the design, development, and deployment of critical business applications, ensuring they were robust, user-friendly, and met the evolving needs of the business
+    - role: Full Stack Developer
+      time: 2013 - 2016
+      company: Human Staff
+      details: |
+        As a full stack developer, I specialized in utilizing a focused technology stack comprising C#, ASP.NET, SQL, and HTML. This role required a deep understanding of both front-end and back-end development processes, enabling me to create efficient, scalable solutions tailored to the enterprise's specific needs. My contributions were instrumental in enhancing web application functionality, ensuring data integrity with SQL databases, and delivering user-friendly interfaces, thereby driving improvements in overall project execution and user experience
 
-latest certifications:
-      title: Certifications
-      list:
-        - name: Data Science Certification
-          start: 2024
-          end: 2024
-          organization: https://foprodesemiconductores.aguascalientes.tecnm.mx/aula/course/view.php?id=7
-          credentialname: https://foprodesemiconductores.aguascalientes.tecnm.mx/aula/course/view.php?id=7
+    - role: Full Stack Developer
+      time: 2010 - 2013
+      company: Integra Corp
+      details: |
+        Over three years, I specialized in developing and optimizing a variety of applications using GeneXus 8 and Genexus X, demonstrating profound expertise in leveraging this innovative low-code platform to deliver scalable, efficient solutions. I successfully led the design, development, and deployment of critical business applications, ensuring they were robust, user-friendly, and met the evolving needs of the business
 
-        - name: AWS Cloud Practitioner Certification
-          start: 2023
-          end: 2023
-          organization: https://cp.certmetrics.com/amazon/en/public/verify/credential/4GX75WRK0MR117CC
-          credentialname: https://cp.certmetrics.com/amazon/en/public/verify/credential/4GX75WRK0MR117CC
-          
-        - name: W3Schools ReactJS
-          start: 2022
-          end: 2022
-          organization: https://verify.w3schools.com/1N3U313OZW
-          credentialname: https://verify.w3schools.com/1N3U313OZW
+#projects:
+#  title: Personal Public Projects
+#  assignments:
+#    - title: AWS Practice Test
+#      link: "https://vickthor16.github.io/testpractice/"
+#      tagline: |
+#        In a notable project aimed at preparing students for AWS certification, I developed an application utilizing Redux to manage state efficiently across a user-friendly interface. This application was designed to offer comprehensive preparation materials, interactive quizzes, and progress tracking features to enhance the learning experience for aspiring AWS certified professionals.
 
-        - name: C# foundational Certification
-          start: 2022
-          end: 2022
-          organization: https://www.freecodecamp.org/certification/Vickthor27/foundational-c-sharp-with-microsoft
-          credentialname: https://www.freecodecamp.org/certification/Vickthor27/foundational-c-sharp-with-microsoft
-
-projects:
-    title: Personal Public Projects
-      
-    assignments:
-      - title: AWS Practice Test
-        link: "https://vickthor16.github.io/testpractice/"
-        tagline: "In a notable project aimed at preparing students for AWS certification, I developed an application utilizing Redux to manage state efficiently across a user-friendly interface. This application was designed to offer comprehensive preparation materials, interactive quizzes, and progress tracking features to enhance the learning experience for aspiring AWS certified professionals. "
-
-      - title: UTLD Transportes
-        link: "http://189.199.226.134:8080/"
-        tagline: "In an enhancement to the geolocation app developed for the Universidad Tecnológica de la Laguna Durango, I incorporated a feature specifically designed to track the buses transporting students to and from the university."
-
+#    - title: UTLD Transportes
+#      link: "http://189.199.226.134:8080/"
+#      tagline: |
+#        In an enhancement to the geolocation app developed for the Universidad Tecnológica de la Laguna Durango, I incorporated a feature specifically designed to track the buses transporting students to and from the university.
 
 skills:
-    title: Skills 
-
-    toolset:
-      - name: Sr. React, React Native 
-        level: +5 years
-
-      - name: Sr. Javascript, Typescript 
-        level: +5 years
-
-      - name: Sr. OOP PHP 
-        level: +10 years
-
-      - name: Sr. Genexus 
-        level: +5 years
-
-      - name: Sr .NET Core 8 
-        level: 3 years
-
-      - name: Mid. Angular 
-        level: 3 years
-
-      - name: Mid. Node.js 
-        level: 3 years
-
-      - name: Jr. Java 
-        level: 2 years
-
-      - name: Jr. Flutter 
-        level: 2 years
-
-      - name: AWS (CLF-C01 Certification)
-        level: EC2 5 years <br>Databricks 1 year<br>Beanstalk 1 year
+  title: Skills
+  toolset:
+    - name: Sr. React, React Native
+      level: +5 years
+    - name: Sr. Javascript, Typescript
+      level: +5 years
+    - name: Sr. OOP PHP
+      level: +10 years
+    - name: Sr. Genexus
+      level: +5 years
+    - name: Sr .NET Core 8
+      level: 3 years
+    - name: Mid. Angular
+      level: 3 years
+    - name: Mid. Node.js
+      level: 3 years
+    - name: Jr. Java
+      level: 2 years
+    - name: Jr. Flutter
+      level: 2 years
+    - name: AWS (CLF-C01 Certification)
+      level: EC2 5 years Databricks 1 year Beanstalk 1 year
 
 softskills:
-    title: Soft Skills 
-
-    toolset:
-      - name: Leadership and Team Management
-        level: 90%
-        tools: [Asana, Trello, Slack]
-
-      - name: Effective Communication 
-        level: 90%
-        tools: [Slack, Zoom, Microsoft Teams]
-
-      - name: Problem-Solving and Analytical Thinking
-        level: 90%
-        tools: [JIRA, Confluence, GitHub]
-
-      - name: Tools for Collaboration and Teamwork
-        level: 90%
-        tools: [JIRA, Trello, Slack, Figma, MS Teams, GitHub, Google for Education]
-
-
+  title: Soft Skills
+  toolset:
+    - name: Leadership and Team Management
+      level: 90%
+      tools: [Asana, Trello, Slack]
+    - name: Effective Communication
+      level: 90%
+      tools: [Slack, Zoom, Microsoft Teams]
+    - name: Problem-Solving and Analytical Thinking
+      level: 90%
+      tools: [JIRA, Confluence, GitHub]
+    - name: Tools for Collaboration and Teamwork
+      level: 90%
+      tools:
+        [JIRA, Trello, Slack, Figma, MS Teams, GitHub, Google for Education]

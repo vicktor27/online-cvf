@@ -1,9 +1,7 @@
-{% assign skills = site.data.data.skills %}
-{% assign softskills = site.data.data.softskills %}
-{% if skills %}
+{% assign skills = site.data.data.skills %} {% assign softskills =
+site.data.data.softskills %} {% if skills %}
 
 <section class="skills-section section">
-
   <div class="row">
     <div class="col-lg-6">
       <h2 class="section-title">
@@ -15,27 +13,15 @@
       </h2>
 
       <div class="skillset">
-
         {% for skill in skills.toolset %}
         <div class="item">
-
-          <h3 class="level-title" style="width: 100%; font-weight: 700; font-family: Roboto, sans-serif;">{{ skill.name
-            }}</h3>
-          <h3 class="level-title" style=" width: 100%; font-weight: 100; font-family: Roboto, sans-serif;">
-            {{skill.level}}</h3>
-
-          <!--
-          <div class=" level-bar">
-            <div class="level-bar-inner" data-level="{{ skill.level }}">
-            </div>
-        </div>-->
-
-
-        </div><!--//item-->
+          <div class="skill-row">
+            <h3 class="skill-name">{{ skill.name }}</h3>
+            <h3 class="skill-level">{{ skill.level }}</h3>
+          </div>
+        </div>
         {% endfor %}
-
       </div>
-
     </div>
     <div class="col-lg-6">
       <h2 class="section-title">
@@ -47,32 +33,41 @@
       </h2>
 
       <div class="skillset">
-
         {% for skill in softskills.toolset %}
         <div class="item">
-
-          <h3 class="level-title" style="width: 100%; font-weight: 700; font-family: Roboto, sans-serif;">{{ skill.name
-            }}</h3>
-
-          <h3 class="level-title" style="width: 100%; font-weight: 100; font-family: Roboto, sans-serif;">
-            {{ skill.tools | join: ", " }}
+          <h3
+            class="level-title"
+            style="
+              width: 100%;
+              font-weight: 700;
+              font-family: Roboto, sans-serif;
+            "
+          >
+            {{ skill.name }}
           </h3>
 
+          <h3
+            class="level-title"
+            style="
+              width: 100%;
+              font-weight: 100;
+              font-family: Roboto, sans-serif;
+            "
+          >
+            {{ skill.tools | join: ", " }}
+          </h3>
 
           <!--
             <div class="level-bar">
               <div class="level-bar-inner" data-level="{{ skill.level }}">
               </div>
             </div>-->
-
-
-        </div><!--//item-->
+        </div>
+        <!--//item-->
         {% endfor %}
-
       </div>
-
     </div>
   </div>
-
-</section><!--//skills-section-->
+</section>
+<!--//skills-section-->
 {% endif %}

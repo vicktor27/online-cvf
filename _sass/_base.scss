@@ -17,9 +17,7 @@ h6 {
   font-weight: 700;
   margin-top: 0px;
   margin-bottom: 0px;
-
 }
-
 
 a {
   color: darken($theme-color, 15%);
@@ -36,6 +34,7 @@ a {
 
 p {
   line-height: 1.5;
+  text-align: justify;
 }
 
 .wrapper {
@@ -95,7 +94,6 @@ p {
   }
 
   .contact-list {
-
     .fas,
     .fab,
     .far {
@@ -202,7 +200,7 @@ p {
   }
 
   .section {
-    margin-bottom: 60px;
+    margin-bottom: 30px;
   }
 
   .experiences-section,
@@ -291,7 +289,7 @@ p {
 
 .skillset {
   .item {
-    margin-bottom: 15px;
+    margin-bottom: 8px;
     overflow: hidden;
   }
 
@@ -309,6 +307,29 @@ p {
   .level-bar-inner {
     height: 12px;
     background: lighten($theme-color, 15%);
+  }
+
+  .skill-row {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin-bottom: 5px;
+    overflow: hidden;
+    column-gap: 5px;
+  }
+
+  .skill-name {
+    font-weight: 700;
+    font-family: Roboto, sans-serif;
+    margin: 0;
+    font-size: 14px;
+  }
+
+  .skill-level {
+    font-weight: 100;
+    font-family: Roboto, sans-serif;
+    margin: 0;
+    font-size: 14px;
   }
 }
 
