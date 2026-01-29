@@ -26,12 +26,12 @@ sidebar:
 career-profile:
   title: Tech Lead
   summary: |
-    Versatile Full Stack Developer with comprehensive expertise in the development cycle across web and desktop environments, proficient in a broad spectrum of technologies including HTML5, CSS, Bootstrap, PHP OOP (CodeIgniter, Laravel), JavaScript (jQuery, React, React Native), TypeScript(Angular, React), Flutter, Kotlin, and advanced database management (SQL and NoSQL: MSSQL, MySQL, MariaDB, Firebase, MongoDB), complemented by a strong foundation in project management and customer engagement.
+    Tech Lead and Full Stack Engineer with extensive experience designing, building, and leading scalable software systems across enterprise, consulting, and educational environments. Strong background in backend and frontend architectures using .NET Core 8, Node.js, PostgreSQL, React, and cloud-based solutions. Proven ability to lead technical initiatives, mentor developers, and deliver production-ready systems while bridging engineering execution with business and educational impact.l Stack Developer with comprehensive expertise in the development cycle across web and desktop environments, proficient in a broad spectrum of technologies including HTML5, CSS, Bootstrap, PHP OOP (CodeIgniter, Laravel), JavaScript (jQuery, React, React Native), TypeScript(Angular, React), Flutter, Kotlin, and advanced database management (SQL and NoSQL: MSSQL, MySQL, MariaDB, Firebase, MongoDB), complemented by a strong foundation in project management and customer engagement.
 
 education:
   title: Education
   info:
-    - degree: PhD in Administration and Senior Management (degree in progress)
+    - degree: Candidate PhD in Administration and Senior Management
       university: Universidad Autonoma de Coahuila
       time: 2018 - 2022
     - degree: Master's Degree in Administration and Senior Management
@@ -56,43 +56,71 @@ certifications:
 skills:
   title: Skills
   toolset:
-    - name: Sr. React, React Native
-      level: +5 years
-    - name: Sr. Javascript, Typescript
-      level: +5 years
-    - name: Sr. OOP PHP
-      level: +10 years
-    - name: Sr. Genexus
-      level: +5 years
-    - name: Sr .NET Core 8
+    - name: React / React Native
+      level: 5+ years
+    - name: JavaScript / TypeScript
+      level: 5+ years
+    - name: .NET Core 8 / C#
+      level: 5+ years
+    - name: Node.js
+      level: 5+ years
+    - name: PHP (OOP)
+      level: 10+ years
+    - name: PostgreSQL / SQL Server / MySQL
+      level: 5+ years
+    - name: MongoDB
+      level: 5+ years
+    - name: REST APIs
+      level: Advanced
+    - name: Redux
+      level: Advanced
+    - name: GraphQL
+      level: Intermediate
+    - name: Git / GitHub
+      level: Advanced
+    - name: Docker
+      level: Intermediate
+    - name: Python
+      level: Intermediate
+    - name: Jupyter Notebooks
+      level: Intermediate
+    - name: GeneXus
+      level: 5+ years
+    - name: Angular
       level: 3 years
-    - name: Mid. Angular
-      level: 3 years
-    - name: Mid. Node.js
-      level: 3 years
-    - name: Jr. Java
+    - name: Flutter
       level: 2 years
-    - name: Jr. Flutter
-      level: 2 years
-    - name: AWS (CLF-C01 Certification)
-      level: EC2 5 years Databricks 1 year Beanstalk 1 year
+    - name: Next.js
+      level: Intermediate
+    - name: Figma
+      level: Advanced
+    - name: Jira
+      level: Advanced
+    - name: AWS (CLF-C01 Certified)
+      level: EC2, Elastic Beanstalk, Databricks
 
 softskills:
   title: Soft Skills
   toolset:
-    - name: Leadership and Team Management
-      level: 90%
-      tools: [Asana, Trello, Slack]
-    - name: Effective Communication
-      level: 90%
+    - name: Technical Leadership & Team Coordination
+      level: Advanced
+      tools: [Jira, Trello, Asana, Slack]
+
+    - name: Communication with Technical and Non-Technical Stakeholders
+      level: Advanced
       tools: [Slack, Zoom, Microsoft Teams]
-    - name: Problem-Solving and Analytical Thinking
-      level: 90%
-      tools: [JIRA, Confluence, GitHub]
-    - name: Tools for Collaboration and Teamwork
-      level: 90%
-      tools:
-        [JIRA, Trello, Slack, Figma, MS Teams, GitHub, Google for Education]
+
+    - name: Problem Solving & Analytical Thinking
+      level: Advanced
+      tools: [GitHub, Jira, Confluence]
+
+    - name: Mentoring, Coaching & Knowledge Transfer
+      level: Advanced
+      tools: [GitHub, Google for Education, Notion]
+
+    - name: Cross-functional Collaboration
+      level: Advanced
+      tools: [Figma, Jira, Slack, Microsoft Teams]
 
 experiences:
   title: Experiences
